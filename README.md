@@ -2,3 +2,27 @@ mysac-1.1.1
 ===========
 
 Fixed some compiler BUG
+
+
+
+
+MySAC: MySQL Simple Asynchonous Client
+       --    -      -           -
+
+Reference site:
+---------------
+
+http://cv.arpalert.org/page.sh?mysac
+
+
+Build:
+------
+
+Just type "make". 
+
+
+List:
+-----
+
+you can send questions at:  mysac-list@arpalert.org
+Subscribe to the list: mysac-list+subscribe@arpalert.org
